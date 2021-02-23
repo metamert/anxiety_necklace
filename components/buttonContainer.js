@@ -7,7 +7,7 @@ export default function buttonContainer() {
             <Link href="urunler">
             <div className="buttonBlack needHover">
 
-                Ürünlere gözat
+             Products
             </div>
             </Link>
         </div>
