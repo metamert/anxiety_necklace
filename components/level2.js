@@ -19,7 +19,7 @@ const Line = ({ children, href }) => {
         <Fade bottom>
             <div onClick={(e)=>handleClick(e,"/iletisim")}  className="card flex-column center justify-center">
           <Image className="hidden" src="/lala.png" alt="magnetic sand" width="200px" height="200px"></Image>
-          <h2 className="ml20">İletişim</h2>
+          <h2 className="ml20">Contact</h2>
 
           </div>
         </Fade>
@@ -27,7 +27,7 @@ const Line = ({ children, href }) => {
         <div onClick={(e)=>handleClick(e,"https://www.ox.ac.uk/news/2016-08-22-study-suggests-routes-improved-immunity-older-people")} className="card card flex-column-reverse center justify-center">
         <div>
         <h2>Oxford </h2>
-        <p className="text-center">Timus bezinin faydalarıyla alakalı araştırmalar</p>
+        <p className="text-center">Resource of Thymus gland</p>
         </div>
           <Image className="hidden" src="/oxford.png" alt="magnetic sand"  width="220px" height="220px"></Image>
           

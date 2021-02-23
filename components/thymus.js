@@ -15,21 +15,21 @@ export default function Home() {
     <div className="kolyeContainer items-center relative full2 mt60 mb30 fullw">
       <div className="yazı ">
         <h2 className="üst text-5xl md:text-4xl lg:text-6xl">
-          Manyetik <br></br> Siyah Kum{" "}
+          Magnetite <br></br> Sand{" "}
         </h2>
 
         <Fade bottom duration={1000} delay={1000}>
           <h6 className="alt text-4xl md:text-1xl lg:text-4xl">
             {" "}
-            ile <br></br>Timus Bezini<br></br>Aktive et.
+             <br></br>Active<br></br>Thymus gland .
           </h6>
         </Fade>
       </div>
 
       <div className="yazı2 ">
-        <h2 className="üst text-5xl md:text-4xl lg:text-6xl">Timus</h2>
+        <h2 className="üst text-5xl md:text-4xl lg:text-6xl">Stress</h2>
 
-        <h6 className="alt text-4xl md:text-3xl lg:text-4xl">Bezi.</h6>
+        <h6 className="alt text-4xl md:text-3xl lg:text-4xl">Anxiety</h6>
       </div>
 <div  style={{height:"100%",width:"100%",position:"relative"}}>
       <Image
